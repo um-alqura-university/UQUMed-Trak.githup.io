@@ -53002,7 +53002,7 @@ $1(a){return!1},
 $S:363}
 A.WB.prototype={
 H(a){var s=A.a([A.kf(new A.apt(),t.po),A.kf(new A.apu(),t.jg),A.kf(new A.apv(),t.jO),A.kf(new A.apE(),t.AK),A.kf(new A.apF(),t.T5),A.kf(new A.apG(),t.SO),A.kf(new A.apH(),t.YK),A.kf(new A.apI(),t.aS),A.kf(new A.apJ(),t.LQ),A.kf(new A.apK(),t.Gr),A.kf(new A.apL(),t.NB),A.kf(new A.apw(),t.lZ)],t.Ds),r=$.b_n()
-return A.b7x(new A.Ff(new A.er(new A.apx(),null),A.aj(["/appPageViewRoute",new A.apy(),"/adminScreen",new A.apz(),"/lecturesScreen",new A.apA(),"/attendScreen",new A.apB(),"/choseUserScreen",new A.apC()],t.N,t.Ab),"Flutter Demo",r,B.Uj,new A.apD(),B.UN,!1,null),s)}}
+return A.b7x(new A.Ff(new A.er(new A.apx(),null),A.aj(["/appPageViewRoute",new A.apy(),"/adminScreen",new A.apz(),"/lecturesScreen",new A.apA(),"/attendScreen",new A.apB(),"/choseUserScreen",new A.apC()],t.N,t.Ab),"UQUMed-Trak",r,B.Uj,new A.apD(),B.UN,!1,null),s)}}
 A.apt.prototype={
 $1(a){return $.bX().$1$0(t.po)},
 $S:360}
