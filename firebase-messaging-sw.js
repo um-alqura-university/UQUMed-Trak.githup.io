@@ -2,6 +2,8 @@
 importScripts('https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js');
 importScripts('https://www.gstatic.com/firebasejs/9.6.1/firebase-messaging-compat.js');
 
+
+
 firebase.initializeApp({
   apiKey: "AIzaSyBiMEflFafCFOQg803j9yOYbWXPwVWS5QI",
   authDomain: "umm-al-qura-972d9.firebaseapp.com",
