@@ -349,6 +349,8 @@ self.addEventListener("fetch", (event) => {
     })
   );
 });
+navigator.serviceWorker.register('/firebase-messaging-sw.js', { type: 'module' });
+
 self.addEventListener('message', (event) => {
   // SkipWaiting can be used to immediately activate a waiting service worker.
   // This will also require a page refresh triggered by the main worker.
